@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "weibo2markdown",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Right-click to copy Weibo posts as Markdown",
+    "description": "Extension description"
+  },
+  "contextMenuCopyAsMarkdown": {
+    "message": "Copy as Markdown",
+    "description": "Context menu item"
+  },
+  "toastCopiedAsMarkdown": {
+    "message": "Copied as Markdown",
+    "description": "Toast shown after successful copy"
+  },
+  "errorPostNotFound": {
+    "message": "Weibo post not found",
+    "description": "Error when post cannot be located"
+  },
+  "errorCopyFailedGeneric": {
+    "message": "Copy failed",
+    "description": "Generic copy failure error"
+  }
+}

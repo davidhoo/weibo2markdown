@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "weibo2markdown",
+    "description": "扩展名称"
+  },
+  "extDescription": {
+    "message": "右键复制微博帖子为 Markdown 格式",
+    "description": "扩展描述"
+  },
+  "contextMenuCopyAsMarkdown": {
+    "message": "复制为 Markdown",
+    "description": "右键菜单项"
+  },
+  "toastCopiedAsMarkdown": {
+    "message": "已复制为 Markdown",
+    "description": "复制成功提示"
+  },
+  "errorPostNotFound": {
+    "message": "未找到微博帖子",
+    "description": "找不到帖子时的错误提示"
+  },
+  "errorCopyFailedGeneric": {
+    "message": "复制失败",
+    "description": "复制失败时的通用错误提示"
+  }
+}
